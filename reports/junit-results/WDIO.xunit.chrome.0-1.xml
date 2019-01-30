@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites>
+  <testsuite name="registration_guide_on_guide_page1" timestamp="2019-01-30T16:48:45" time="0.06" tests="0" failures="0" errors="0" skipped="0">
+    <properties>
+      <property name="specId" value="982b5427aa6bb2317bded4a08648bdf6"/>
+      <property name="suiteName" value="Registration guide on guide page1"/>
+      <property name="capabilities" value="chrome"/>
+    </properties>
+  </testsuite>
+  <testsuite name="performing_a_search_operation_with_passing_test_data_as_data_wewee_table16" timestamp="2019-01-30T16:48:45" time="0.011" tests="4" failures="0" errors="1" skipped="3">
+    <properties>
+      <property name="specId" value="982b5427aa6bb2317bded4a08648bdf6"/>
+      <property name="suiteName" value="Performing a search operation with passing test data as data wewee table16"/>
+      <property name="capabilities" value="chrome"/>
+    </properties>
+    <testcase classname="chrome.Performing a search operation with passing test data as data wewee table16" name="I am on the search page7" time="0">
+      <skipped/>
+    </testcase>
+    <testcase classname="chrome.Performing a search operation with passing test data as data wewee table16" name="I am on the search page10" time="0">
+      <skipped/>
+    </testcase>
+    <testcase classname="chrome.Performing a search operation with passing test data as data wewee table16" name="I click on guide link11" time="0">
+      <skipped/>
+    </testcase>
+    <testcase classname="chrome.Performing a search operation with passing test data as data wewee table16" name="I should get see guide page and ther should be introduction section &quot;I. Registration process: How to start&quot;12" time="0.202">
+      <error message="&#xA;Step &quot;I should get see guide page and ther should be introduction section &quot;I. Registration process: How to start&quot;&quot; is not defined. You can ignore this error by setting&#xA;                              cucumberOpts.ignoreUndefinedDefinitions as true.&#xA;"/>
+      <system-err>
+        <![CDATA[
+undefined:undefined
+]]>
+      </system-err>
+    </testcase>
+  </testsuite>
+  <testsuite name="performing_a_search_operation_with_passing_test_data_as_data_wewee_table17" timestamp="2019-01-30T16:48:45" time="0.002" tests="4" failures="0" errors="1" skipped="3">
+    <properties>
+      <property name="specId" value="982b5427aa6bb2317bded4a08648bdf6"/>
+      <property name="suiteName" value="Performing a search operation with passing test data as data wewee table17"/>
+      <property name="capabilities" value="chrome"/>
+    </properties>
+    <testcase classname="chrome.Performing a search operation with passing test data as data wewee table17" name="I am on the search page7" time="0">
+      <skipped/>
+    </testcase>
+    <testcase classname="chrome.Performing a search operation with passing test data as data wewee table17" name="I am on the search page10" time="0">
+      <skipped/>
+    </testcase>
+    <testcase classname="chrome.Performing a search operation with passing test data as data wewee table17" name="I click on guide link11" time="0">
+      <skipped/>
+    </testcase>
+    <testcase classname="chrome.Performing a search operation with passing test data as data wewee table17" name="I should get see guide page and ther should be introduction section &quot;II. API Documentation&quot;12" time="0.198">
+      <error message="&#xA;Step &quot;I should get see guide page and ther should be introduction section &quot;II. API Documentation&quot;&quot; is not defined. You can ignore this error by setting&#xA;                              cucumberOpts.ignoreUndefinedDefinitions as true.&#xA;"/>
+      <system-err>
+        <![CDATA[
+undefined:undefined
+]]>
+      </system-err>
+    </testcase>
+  </testsuite>
+</testsuites>

@@ -24,7 +24,7 @@ exports.config = {
 	connectionRetryTimeout : 90000, // Default timeout in milliseconds for request  if Selenium Grid doesn't send response
 	connectionRetryCount : 3, // Default request retries count
 
-	services : [ 'selenium-standalone' ],
+	//services : [ 'selenium-standalone' ],
 	framework : 'cucumber',
 	reporters : [ 'junit' ],
 
@@ -37,7 +37,7 @@ exports.config = {
 
 	cucumberOpts : {
 		compiler : [ 'js:@babel/register' ],
-		require : [ './features/stepDefinitions/given.js' ],
+		require : [ './features/stepDefinitions/checkWeatherInCitySteps.js' ],
 	},
 	before : function() {
 		const chai = require('chai');
