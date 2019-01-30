@@ -1,5 +1,5 @@
 
-Installation
+Installation:
 
 `JDK 1.8:` Install JDK 1.8+ and make sure class path is set properly. JAVA is require to start `Selenium Server` nothing else.
 
@@ -17,13 +17,19 @@ To take full advantage of the command line and use grunt tasks you will need to 
   `npm install -g  grunt-cli`
 
 
-Run Some Sample Tests
+Run Some Sample Tests:
 
 To execute the entire test suite in local development, you can use any one of the options mentioned below
 
 Option 1: `npm run test`
 
 Option 2: `grunt webdriver:test`.  This executes all features in the [`./features/*.feature`]
+
+CI integration: 
+
+Jenkinsfile is created to integrate the test-case with jenkins. If you have a jenkins pipeline setup
+
+
 
 
 
