@@ -1,34 +1,34 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <testsuites>
-  <testsuite name="check_weather_in_city1" timestamp="2019-01-30T17:30:24" time="22.741" tests="0" failures="0" errors="0" skipped="0">
+  <testsuite name="check_weather_in_city1" timestamp="2019-01-30T22:12:08" time="18.119" tests="0" failures="0" errors="0" skipped="0">
     <properties>
       <property name="specId" value="b54e5a7639bc632988b760e72c72f90f"/>
       <property name="suiteName" value="Check weather in city1"/>
       <property name="capabilities" value="chrome"/>
     </properties>
   </testsuite>
-  <testsuite name="search_field_is_working_fine_on_weathermap_home_page18" timestamp="2019-01-30T17:30:24" time="9.218" tests="5" failures="0" errors="0" skipped="0">
+  <testsuite name="search_field_is_working_fine_on_weathermap_home_page18" timestamp="2019-01-30T22:12:08" time="8.507" tests="5" failures="0" errors="0" skipped="0">
     <properties>
       <property name="specId" value="b54e5a7639bc632988b760e72c72f90f"/>
       <property name="suiteName" value="Search field is working fine on WeatherMap home page18"/>
       <property name="capabilities" value="chrome"/>
     </properties>
-    <testcase classname="chrome.Search field is working fine on WeatherMap home page18" name="I am on the search page8" time="22.961"/>
-    <testcase classname="chrome.Search field is working fine on WeatherMap home page18" name="I enter a valid &quot;Pune&quot; in the search box11" time="18.203"/>
-    <testcase classname="chrome.Search field is working fine on WeatherMap home page18" name="I should see a list of search results with &quot;Pune&quot;12" time="14.01"/>
-    <testcase classname="chrome.Search field is working fine on WeatherMap home page18" name="I eneter invalid &quot;abcdef&quot; in the search box13" time="13.972"/>
-    <testcase classname="chrome.Search field is working fine on WeatherMap home page18" name="i should not get any search result with the given &quot;abcdef&quot;14" time="13.788"/>
+    <testcase classname="chrome.Search field is working fine on WeatherMap home page18" name="I am on the search page8" time="18.284"/>
+    <testcase classname="chrome.Search field is working fine on WeatherMap home page18" name="I enter a valid &quot;Pune&quot; in the search box11" time="13.156"/>
+    <testcase classname="chrome.Search field is working fine on WeatherMap home page18" name="I should see a list of search results with &quot;Pune&quot;12" time="10.039"/>
+    <testcase classname="chrome.Search field is working fine on WeatherMap home page18" name="I eneter invalid &quot;abcdef&quot; in the search box13" time="10.002"/>
+    <testcase classname="chrome.Search field is working fine on WeatherMap home page18" name="i should not get any search result with the given &quot;abcdef&quot;14" time="9.829"/>
   </testsuite>
-  <testsuite name="search_for_city_and_the_verify_that_weather_is_displayed_for_that_city28" timestamp="2019-01-30T17:30:34" time="13.473" tests="5" failures="0" errors="0" skipped="0">
+  <testsuite name="search_for_city_and_the_verify_that_weather_is_displayed_for_that_city28" timestamp="2019-01-30T22:12:17" time="9.56" tests="5" failures="0" errors="0" skipped="0">
     <properties>
       <property name="specId" value="b54e5a7639bc632988b760e72c72f90f"/>
       <property name="suiteName" value="Search for city and the verify that weather is displayed for that city28"/>
       <property name="capabilities" value="chrome"/>
     </properties>
-    <testcase classname="chrome.Search for city and the verify that weather is displayed for that city28" name="I am on the search page8" time="13.742"/>
-    <testcase classname="chrome.Search for city and the verify that weather is displayed for that city28" name="I enter a valid &quot; Pune, IN&quot; in the search box21" time="7.549"/>
-    <testcase classname="chrome.Search for city and the verify that weather is displayed for that city28" name="I should see a list of search results with &quot; Pune, IN&quot;22" time="3.833"/>
-    <testcase classname="chrome.Search for city and the verify that weather is displayed for that city28" name="I click on &quot; Pune, IN&quot; from search result23" time="3.793"/>
-    <testcase classname="chrome.Search for city and the verify that weather is displayed for that city28" name="I should see the weather &quot; Pune, IN&quot;24" time="0.31"/>
+    <testcase classname="chrome.Search for city and the verify that weather is displayed for that city28" name="I am on the search page8" time="9.778"/>
+    <testcase classname="chrome.Search for city and the verify that weather is displayed for that city28" name="I enter a valid &quot; Pune, IN&quot; in the search box21" time="5.161"/>
+    <testcase classname="chrome.Search for city and the verify that weather is displayed for that city28" name="I should see a list of search results with &quot; Pune, IN&quot;22" time="2.479"/>
+    <testcase classname="chrome.Search for city and the verify that weather is displayed for that city28" name="I click on &quot; Pune, IN&quot; from search result23" time="2.38"/>
+    <testcase classname="chrome.Search for city and the verify that weather is displayed for that city28" name="I should see the weather &quot; Pune, IN&quot;24" time="0.277"/>
   </testsuite>
 </testsuites>
